@@ -10,10 +10,7 @@ var imgList = [
 	"images/image08.jpg",
 	"images/image09.jpg",
 	"images/image10.jpg",
-	"images/image11.jpg",
-	"images/image12.jpg",
-	"images/image13.jpg",
-	"images/image14.jpg"
+	"images/image11.jpg"
 ];
 
 // 画像とナビの要素を自動で追加

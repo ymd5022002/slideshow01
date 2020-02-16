@@ -1,9 +1,19 @@
 // スライダーに表示する画像のパス
 var imgList = [
-	"images/img01.jpg",
-	"images/img02.jpg",
-	"images/img03.jpg",
-	"images/img04.jpg"
+	"images/image01.jpg",
+	"images/image02.jpg",
+	"images/image03.jpg",
+	"images/image04.jpg",
+	"images/image05.jpg",
+	"images/image06.jpg",
+	"images/image07.jpg",
+	"images/image08.jpg",
+	"images/image09.jpg",
+	"images/image10.jpg",
+	"images/image11.jpg",
+	"images/image12.jpg",
+	"images/image13.jpg",
+	"images/image14.jpg"
 ];
 
 // 画像とナビの要素を自動で追加
